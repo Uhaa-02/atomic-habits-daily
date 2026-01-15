@@ -2,7 +2,7 @@
 
 📅 Date: 18-12-2025  
 📖 Pages Read: 1–20  
-⏱ Time Spent: 10 minutes
+⏱ Time Spent: 10 mins
 
 ## Key Learnings
 - Small habits compound into remarkable results.

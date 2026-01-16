@@ -1,4 +1,4 @@
-# Day 02 – Atomic Habits 📘
+# Day 02 – Atomic Habits 
 
 ## Chapter Summary - THE FUNDAMENTALS
 This chapter says "why tiny changes make a big differences. Small habits may seem insignificant, but when repeated daily, they lead to remarkable results over time. Success is not about big breakthroughs; it is about consistency and systems.

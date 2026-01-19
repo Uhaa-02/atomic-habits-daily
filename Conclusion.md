@@ -1,4 +1,4 @@
-# Atomic Habits – Day 01 to Day 22 📘
+# Atomic Habits – Day 01 to Day 22 
 
 This repository contains my daily learnings, reflections, and action steps from the book  
 **Atomic Habits by James Clear**, documented consistently from Day 01 to Day 22.
